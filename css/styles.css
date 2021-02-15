@@ -1,0 +1,74 @@
+body {
+  font-family: Karla;
+}
+
+h2 {
+  padding-bottom: 10px;
+}
+
+h6 {
+  color: hsl(71, 73%, 54%);
+}
+
+.title {
+  padding: 100px;
+  padding-bottom: 50px;
+}
+
+.title p {
+  width: 40%;
+  color: hsl(218, 22%, 67%);
+}
+
+
+
+.signup-button {
+  background-color: hsl(71, 73%, 54%);
+}
+
+.manage-subs {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 0;
+  padding: 3%;
+  display: inline-block;
+  background-color: hsl(179, 62%, 43%);
+  color: hsl(204, 43%, 93%);
+}
+
+.why-us {
+  text-align: center;
+  margin-left: 0;
+  display: inline-block;
+  font-size: 1em;
+  background-color: hsl(179, 62%, 55%);
+  color: hsl(204, 43%, 93%);
+  /* padding: 20px 20px 50px 0px; */
+  padding: 1.3% 2.5% 3.5%;
+  
+}
+
+.why-us ul {
+  color: hsl(204, 43%, 93%);
+  margin-bottom: 0px;
+  opacity: .75;
+  list-style-type: none;
+  text-align: left;
+}
+
+.sub {
+  font-size: 3rem;
+}
+
+.sub span {
+  font-size: 1rem;
+  opacity: 0.75;
+}
+
+.attribution {
+  text-align: left;
+  margin-left: 100px;
+  padding-top: 3%;
+  color: hsl(218, 22%, 67%);
+  font-size:.8rem;
+}
